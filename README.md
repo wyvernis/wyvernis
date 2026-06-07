@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="nightfog.jpg" alt="Gradient Header" width="100%">
+  <img src="nightfog.jpg" alt="Gradient Header" height="400" width="100%">
 </p>
+
 
 <p align="center">
   :>
