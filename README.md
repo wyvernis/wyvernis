@@ -1,14 +1,14 @@
-
+<!--
 <p align="center">
   <img src="nightfog.jpg" alt="Gradient Header" height="400" width="100%">
 </p>
-
 
 <p align="center">
   :>
 </p>
 
 <br>
+-->
 
 <p align="center">
   <strong>full stack // ai engineering // business analytics</strong>
